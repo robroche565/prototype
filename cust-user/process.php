@@ -42,6 +42,21 @@
                             <option value="3">Three</option>
                         </select>
                         <label class="mb-2">Type of Syllabus</label>
+                        <div class="mb-2">
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="Type_of_Syllabus" id="inlineRadio1" value="option1" checked>
+                                <label class="form-check-label" for="inlineRadio1">Lecture</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="Type_of_Syllabus" id="inlineRadio2" value="option2">
+                                <label class="form-check-label" for="inlineRadio2">Laboratory</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="Type_of_Syllabus" id="inlineRadio3" value="option3">
+                                <label class="form-check-label" for="inlineRadio2">Both</label>
+                            </div>
+                        </div>
+                        <label class="mb-2">Type of Information of Syllabus</label>
                         <div class="">
                             <div class="form-check form-check-inline">
                                 <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1" checked>
@@ -63,6 +78,207 @@
                         </div>
                         <div class="d-flex justify-content-end mt-4">
                             <button class="btn btn-primary ml-auto js-btn-next" type="button" title="Next">Next</button>
+                        </div>
+                    </div>
+                </div>
+                <!--single form panel-->
+                <div class="multisteps-form__panel shadow p-4 rounded background-color-custom" data-animation="fadeIn">
+                    <h3 class="multisteps-form__title">Syllabus Information</h3>
+                    <div class="multisteps-form__content ">
+                        <h4>First Part</h4>
+                        <div class="container-fluid scroll overflow-auto">
+                        <div class="row">
+                            <div class="mb-3 col-lg-4">
+                                <label for="" class="form-label">Semester Adopted</label>
+                                <input type="text" class="form-control" id="" placeholder="Sem:1st AY: 2017-2018">
+                            </div>
+                            <div class="mb-3 col-lg-4">
+                                <label for="" class="form-label">Revision Status</label>
+                                <input type="text" class="form-control" id="" placeholder="1st Draft" min="1">
+                            </div>
+                            <div class="mb-3 col-lg-4">
+                                <label for="" class="form-label">Revision Date</label>
+                                <input type="date" class="form-control" id="">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="mb-3 col-lg-4">
+                                <label for="" class="form-label">Recommending approval</label>
+                                <input type="text" class="form-control" id="" placeholder="Department Head">
+                            </div>
+                            <div class="mb-3 col-lg-4">
+                                <label for="" class="form-label">Concurred</label>
+                                <input type="text" class="form-control" id="" placeholder="Dean">
+                            </div>
+                            <div class="mb-3 col-lg-4">
+                                <label for="" class="form-label">Approved</label>
+                                <input type="text" class="form-control" id="" placeholder="VPAA">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="mb-3 col-lg-6">
+                                <label for="" class="form-label">Title of Syllabus</label>
+                                <input type="text" class="form-control" id="" placeholder="title">
+                            </div>
+                            <div class="mb-3 col-lg-6">
+                                <label for="" class="form-label">Semester</label>
+                                <input type="text" class="form-control" id="" placeholder="1st Semester, SY 2020-2021">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="mb-3 col-lg-12">
+                                <label for="exampleFormControlTextarea1" class="form-label">Description of Goal</label>
+                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                            </div>
+                            <label>Goals</label>
+                            <div class="col-lg-12">
+                                <div class="input-group">
+                                    <input type="text" class="form-control" placeholder="">
+                                    <button class="btn btn-success" type="button"><i class='bx bx-plus-circle'></i></button>
+                                    <button class="btn btn-danger" type="button"><i class='bx bx-minus-circle'></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="row pt-3">
+                            <div class="col d-flex justify-content-start">
+                                <button class="btn btn-primary js-btn-prev" type="button" title="Prev">Back</button>
+                            </div>
+                            <div class="col d-flex justify-content-end">
+                                <button class="btn btn-primary ml-auto js-btn-next" type="button" title="Next">Next</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--single form panel-->
+                <div class="multisteps-form__panel shadow p-4 rounded background-color-custom" data-animation="fadeIn">
+                    <h3 class="multisteps-form__title">Syllabus Information</h3>
+                    <div class="multisteps-form__content ">
+                        <div class="container-fluid scroll overflow-auto">
+                            <h4>Second Part</h4>
+                            <div class="row">
+                                <div class="mb-3 col-lg-4">
+                                    <label for="" class="form-label">Course Code</label>
+                                    <input type="text" class="form-control" id="" placeholder="Sem:1st AY: 2017-2018">
+                                </div>
+                                <div class="mb-3 col-lg-4">
+                                    <label for="" class="form-label">Course Name</label>
+                                    <input type="text" class="form-control" id="" placeholder="1st Draft" min="1">
+                                </div>
+                                <div class="mb-3 col-lg-4">
+                                    <label for="" class="form-label">Preriquisite</label>
+                                    <input type="text" class="form-control" id="">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="mb-3 col-lg-4">
+                                    <label for="" class="form-label">Course Credit</label>
+                                    <input type="text" class="form-control" id="" placeholder="Department Head">
+                                </div>
+                                <div class="mb-3 col-lg-8">
+                                    <label for="exampleFormControlTextarea1" class="form-label">Course Description</label>
+                                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="2"></textarea>
+                                </div>
+                            </div>
+                            <h4>Grade Component and Corresponding Weight</h4>
+                            <div class="row">
+                                <div class="mb-3 col-lg-3">
+                                    <label for="" class="form-label">Mid Term Exam (Final Exam)</label>
+                                    <input type="number" class="form-control" id="" placeholder="">
+                                </div>
+                                <div class="mb-3 col-lg-3">
+                                    <label for="" class="form-label">Quizzes</label>
+                                    <input type="number" class="form-control" id="" placeholder="">
+                                </div>
+                                <div class="mb-3 col-lg-3">
+                                    <label for="" class="form-label">Assignment/Output</label>
+                                    <input type="number" class="form-control" id="">
+                                </div>
+                                <div class="mb-3 col-lg-3">
+                                    <label for="" class="form-label">Tasks</label>
+                                    <input type="number" class="form-control" id="">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="mb-3 col-lg-3">
+                                    <label for="" class="form-label">Attendance/Behaviour</label>
+                                    <input type="number" class="form-control" id="" placeholder="">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <label>Percentage Grade Range</label>
+                                <div class="col-lg-12">
+                                    <div class="input-group">
+                                        <span class="input-group-text">Enter Range Here</span>
+                                        <input type="text" aria-label="First name" class="form-control">
+                                        <span class="input-group-text">Enter Grade Here</span>
+                                        <input type="text" aria-label="Last name" class="form-control">
+                                        <button class="btn btn-success" type="button"><i class='bx bx-plus-circle'></i></button>
+                                        <button class="btn btn-danger" type="button"><i class='bx bx-minus-circle'></i></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row pt-3">
+                            <div class="col d-flex justify-content-start">
+                                <button class="btn btn-primary js-btn-prev" type="button" title="Prev">Back</button>
+                            </div>
+                            <div class="col d-flex justify-content-end">
+                                <button class="btn btn-primary ml-auto js-btn-next" type="button" title="Next">Next</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--single form panel-->
+                <div class="multisteps-form__panel shadow p-4 rounded background-color-custom" data-animation="fadeIn">
+                    <h3 class="multisteps-form__title">Syllabus Information</h3>
+                    <div class="multisteps-form__content ">
+                        <div class="container-fluid scroll overflow-auto">
+                            <h4>Third Part</h4>
+                            <div class="row mt-1">
+                                <label>Course Requirements</label>
+                                <div class="col-lg-12 mt-1">
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" placeholder="Enter Source Here">
+                                        <button class="btn btn-success" type="button"><i class='bx bx-plus-circle'></i></button>
+                                        <button class="btn btn-danger" type="button"><i class='bx bx-minus-circle'></i></button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row mt-1">
+                                <label>Conditions for Performance Evaluation</label>
+                                <div class="col-lg-12 mt-1">
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" placeholder="Enter Source Here">
+                                        <button class="btn btn-success" type="button"><i class='bx bx-plus-circle'></i></button>
+                                        <button class="btn btn-danger" type="button"><i class='bx bx-minus-circle'></i></button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row mt-2">
+                                <div class="mb-3 col-lg-12">
+                                    <label for="subject_of_sylla" class="form-label">Prepared By:</label>
+                                    <div class="input-group">
+                                        <span class="input-group-text">Name and Position</span>
+                                        <input type="text" aria-label="First name" class="form-control">
+                                        <input type="text" aria-label="Last name" class="form-control">
+                                        <button class="btn btn-success" type="button"><i class='bx bx-plus-circle'></i></button>
+                                        <button class="btn btn-danger" type="button"><i class='bx bx-minus-circle'></i></button>
+                                    </div>
+                                </div>
+                                <div class="mb-3 col-lg-12">
+                                    <label for="time_frame" class="form-label">Noted By</label>
+                                    <input type="text" class="form-control" id="time_frame">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row pt-3">
+                            <div class="col d-flex justify-content-start">
+                                <button class="btn btn-primary js-btn-prev" type="button" title="Prev">Back</button>
+                            </div>
+                            <div class="col d-flex justify-content-end">
+                                <button class="btn btn-primary ml-auto js-btn-next" type="button" title="Next">Next</button>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -571,9 +787,7 @@
                                 </ul>
                             </div>
                         </div>
-                        
                     </div>
-                    
                     <div class="multisteps-form__content">
                         <embed src="../files/SYLLABUS CC100 - INTRODUCTION TO COMPUTING V2newnormal.pdf" type="application/pdf" width="100%" height="600px" />
 
