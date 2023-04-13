@@ -103,6 +103,7 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Overview of the course
                                         <button class="badge bg-primary rounded-pill border-0 cust-btn" ><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                         <div class="cust-div" id="myDIV">
                                             <div class="row mt-1 ms-4">
                                                 <div class="col-3 ">
@@ -118,16 +119,19 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         History and evolution of computing
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Basic computer components and terminology
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Operating systems and software
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                 </ul>
                                 <br>
@@ -137,21 +141,25 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Introduction to binary numbers
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Boolean algebra and logic gates
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Binary arithmetic
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Digital circuits
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                 </ul>
                                 <br>
@@ -161,21 +169,25 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Introduction to programming languages
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Syntax and basic programming concepts
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Data types and variables
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Control structures (if/else statements, loops)
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                 </ul>
                                 <br>
@@ -185,21 +197,25 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Functions and procedures
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Arrays and lists
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         File input/output
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Debugging techniques
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                 </ul>
                                 <br>
@@ -209,21 +225,25 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Introduction to object-oriented programming
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Classes and objects
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Inheritance and polymorphism
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Design patterns
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                 </ul>
                                 <br>
@@ -233,21 +253,25 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         HTML and CSS basics
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Introduction to JavaScript
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Dynamic web pages and the Document Object Model (DOM)
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Basic web development tools
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                 </ul>
                                 <br>
@@ -257,21 +281,25 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Introduction to databases
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Relational databases and SQL
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Database design and normalization
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Simple database applications
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                 </ul>
                                 <br>
@@ -281,21 +309,25 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Introduction to computer networks
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Network topologies and protocols
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Local Area Networks (LANs) and Wide Area Networks (WANs)
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Network security and privacy
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                 </ul>
                                 <br>
@@ -305,21 +337,25 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Operating system fundamentals
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Process management and scheduling
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Memory management
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         File systems
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                 </ul>
                                 <br>
@@ -329,21 +365,25 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Introduction to emerging technologies
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Artificial Intelligence (AI) and Machine Learning (ML)
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Cloud computing and virtualization
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                     <li class="list-group-item bg-transparent text-light">
                                         <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                         Internet of Things (IoT) and its applications
                                         <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                        <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                     </li>
                                 </ul>
                             <br>
@@ -353,51 +393,61 @@
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Describe the history and evolution of computing, including major milestones and innovations in the field.
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                                 <li class="list-group-item bg-transparent text-light">
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Explain the basic components and terminology of a computer system, including hardware, software, and operating systems.
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                                 <li class="list-group-item bg-transparent text-light">
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Analyze and design digital circuits using Boolean algebra and logic gates, and apply binary arithmetic to solve problems.
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                                 <li class="list-group-item bg-transparent text-light">
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Write and debug simple programs using programming languages, including control structures and basic data types and variables.
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                                 <li class="list-group-item bg-transparent text-light">
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Implement object-oriented programming concepts, including classes and objects, inheritance, and polymorphism, to solve programming problems.
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                                 <li class="list-group-item bg-transparent text-light">
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Develop simple web pages using HTML, CSS, and JavaScript, and understand dynamic web pages and the Document Object Model (DOM).
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                                 <li class="list-group-item bg-transparent text-light">
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Create and query databases using SQL, understand database design and normalization, and build simple database applications.
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                                 <li class="list-group-item bg-transparent text-light">
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Understand the basics of computer networks, including topologies, protocols, and security, and apply this knowledge to analyze and solve network problems.
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                                 <li class="list-group-item bg-transparent text-light">
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Analyze and design operating systems, including process and memory management and file systems, and apply this knowledge to develop solutions to operating system problems.
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                                 <li class="list-group-item bg-transparent text-light">
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Evaluate emerging technologies, including artificial intelligence, cloud computing, and the Internet of Things (IoT), and understand their applications in various industries and fields.
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                             </ol>
                             <br>
@@ -407,51 +457,61 @@
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Understand the history and evolution of computing and basic computer components and terminology.
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                                 <li class="list-group-item bg-transparent text-light">
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Analyze and design digital circuits using Boolean algebra and logic gates.
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                                 <li class="list-group-item bg-transparent text-light">
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Write basic programs using programming languages, including syntax and control structures.
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                                 <li class="list-group-item bg-transparent text-light">
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Implement object-oriented programming concepts, including classes and objects, inheritance, and polymorphism.
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                                 <li class="list-group-item bg-transparent text-light">
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Develop simple web pages using HTML, CSS, and JavaScript, and understand dynamic web pages and the Document Object Model (DOM).
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                                 <li class="list-group-item bg-transparent text-light">
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Create and query databases using SQL, understand database design and normalization, and build simple database applications.
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                                 <li class="list-group-item bg-transparent text-light">
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Understand the basics of computer networks, including topologies, protocols, and security.
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                                 <li class="list-group-item bg-transparent text-light">
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Analyze and design operating systems, including process and memory management and file systems.
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                                 <li class="list-group-item bg-transparent text-light">
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Evaluate emerging technologies, including artificial intelligence, cloud computing, and the Internet of Things (IoT).
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                                 <li class="list-group-item bg-transparent text-light">
                                     <input class="form-check-input me-1" type="checkbox" value="" aria-label="...">
                                     Develop problem-solving and critical thinking skills related to computing and technology.
                                     <button class="badge bg-primary rounded-pill border-0"><i class='bx bx-edit-alt'></i></button>
+                                    <button class="badge bg-primary rounded-pill border-0" ><i class='bx bxs-trash'></i></button>
                                 </li>
                             </ol>
                             <br>
