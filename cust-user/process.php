@@ -87,59 +87,88 @@
                     <div class="multisteps-form__content ">
                         <h4>First Part</h4>
                         <div class="container-fluid scroll overflow-auto">
-                        <div class="row">
-                            <div class="mb-3 col-lg-4">
-                                <label for="" class="form-label">Semester Adopted</label>
-                                <input type="text" class="form-control" id="" placeholder="Sem:1st AY: 2017-2018">
+                            <div class="row">
+                                <div class="mb-3 col-lg-4">
+                                    <label for="" class="form-label">Semester Adopted</label>
+                                    <input type="text" class="form-control" id="" placeholder="Sem:1st AY: 2017-2018">
+                                </div>
+                                <div class="mb-3 col-lg-4">
+                                    <label for="" class="form-label">Revision Status</label>
+                                    <input type="text" class="form-control" id="" placeholder="1st Draft" min="1">
+                                </div>
+                                <div class="mb-3 col-lg-4">
+                                    <label for="" class="form-label">Revision Date</label>
+                                    <input type="date" class="form-control" id="">
+                                </div>
                             </div>
-                            <div class="mb-3 col-lg-4">
-                                <label for="" class="form-label">Revision Status</label>
-                                <input type="text" class="form-control" id="" placeholder="1st Draft" min="1">
+                            <div class="row">
+                                <div class="mb-3 col-lg-4">
+                                    <label for="" class="form-label">Recommending approval</label>
+                                    <input type="text" class="form-control" id="" placeholder="Department Head">
+                                </div>
+                                <div class="mb-3 col-lg-4">
+                                    <label for="" class="form-label">Concurred</label>
+                                    <input type="text" class="form-control" id="" placeholder="Dean">
+                                </div>
+                                <div class="mb-3 col-lg-4">
+                                    <label for="" class="form-label">Approved</label>
+                                    <input type="text" class="form-control" id="" placeholder="VPAA">
+                                </div>
                             </div>
-                            <div class="mb-3 col-lg-4">
-                                <label for="" class="form-label">Revision Date</label>
-                                <input type="date" class="form-control" id="">
+                            <div class="row">
+                                <div class="mb-3 col-lg-6">
+                                    <label for="" class="form-label">Title of Syllabus</label>
+                                    <input type="text" class="form-control" id="" placeholder="title">
+                                </div>
+                                <div class="mb-3 col-lg-6">
+                                    <label for="" class="form-label">Semester</label>
+                                    <input type="text" class="form-control" id="" placeholder="1st Semester, SY 2020-2021">
+                                </div>
                             </div>
-                        </div>
-                        <div class="row">
-                            <div class="mb-3 col-lg-4">
-                                <label for="" class="form-label">Recommending approval</label>
-                                <input type="text" class="form-control" id="" placeholder="Department Head">
+                            <div class="row">
+                                <div class="mb-3 col-lg-12">
+                                    <label for="exampleFormControlTextarea1" class="form-label">WMSU Vision</label>
+                                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="2" value="">The University of Choice for higher learning with strong research orientation that produces professionals who are socially responsive to and responsible for human development; ecological sustainability; and, peace and security within and beyond the region.</textarea>
+                                </div>
+                                <label>Itemized Vision</label>
+                                <div class="col-lg-12">
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" placeholder="">
+                                        <button class="btn btn-success" type="button"><i class='bx bx-plus-circle'></i></button>
+                                        <button class="btn btn-danger" type="button"><i class='bx bx-minus-circle'></i></button>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="mb-3 col-lg-4">
-                                <label for="" class="form-label">Concurred</label>
-                                <input type="text" class="form-control" id="" placeholder="Dean">
+                            <div class="row mb-3">
+                                <div class="mb-3 col-lg-12">
+                                    <label for="exampleFormControlTextarea1" class="form-label">WMSU Mission</label>
+                                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="2" value="">The Western Mindanao State University, set in a culturally diverse environment, shall pursue a vibrant socio-economic agenda that includes:</textarea>
+                                </div>
+                                <label>Itemized Mission</label>
+                                <div class="col-lg-12">
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" placeholder="">
+                                        <button class="btn btn-success" type="button"><i class='bx bx-plus-circle'></i></button>
+                                        <button class="btn btn-danger" type="button"><i class='bx bx-minus-circle'></i></button>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="mb-3 col-lg-4">
-                                <label for="" class="form-label">Approved</label>
-                                <input type="text" class="form-control" id="" placeholder="VPAA">
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="mb-3 col-lg-6">
-                                <label for="" class="form-label">Title of Syllabus</label>
-                                <input type="text" class="form-control" id="" placeholder="title">
-                            </div>
-                            <div class="mb-3 col-lg-6">
-                                <label for="" class="form-label">Semester</label>
-                                <input type="text" class="form-control" id="" placeholder="1st Semester, SY 2020-2021">
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="mb-3 col-lg-12">
-                                <label for="exampleFormControlTextarea1" class="form-label">Description of Goal</label>
-                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-                            </div>
-                            <label>Goals</label>
-                            <div class="col-lg-12">
-                                <div class="input-group">
-                                    <input type="text" class="form-control" placeholder="">
-                                    <button class="btn btn-success" type="button"><i class='bx bx-plus-circle'></i></button>
-                                    <button class="btn btn-danger" type="button"><i class='bx bx-minus-circle'></i></button>
+                            <div class="row">
+                                <div class="mb-3 col-lg-12">
+                                    <label for="exampleFormControlTextarea1" class="form-label">Goal Description of College</label>
+                                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="2"></textarea>
+                                </div>
+                                <label>Itemized Goals</label>
+                                <div class="col-lg-12">
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" placeholder="">
+                                        <button class="btn btn-success" type="button"><i class='bx bx-plus-circle'></i></button>
+                                        <button class="btn btn-danger" type="button"><i class='bx bx-minus-circle'></i></button>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        </div>
+                        <hr>
                         <div class="row pt-3">
                             <div class="col d-flex justify-content-start">
                                 <button class="btn btn-primary js-btn-prev" type="button" title="Prev">Back</button>
@@ -171,38 +200,44 @@
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="mb-3 col-lg-4">
+                                <div class="mb-3 col-lg-6">
                                     <label for="" class="form-label">Course Credit</label>
                                     <input type="text" class="form-control" id="" placeholder="">
                                 </div>
-                                <div class="mb-3 col-lg-8">
+                                <div class="mb-3 col-lg-6">
                                     <label for="exampleFormControlTextarea1" class="form-label">Course Description</label>
                                     <textarea class="form-control" id="exampleFormControlTextarea1" rows="2"></textarea>
                                 </div>
                             </div>
-                            <h4>Grade Component and Corresponding Weight</h4>
+                            <h4>Grading System</h4>
                             <div class="row">
-                                <div class="mb-3 col-lg-3">
-                                    <label for="" class="form-label">Mid Term Exam (Final Exam)</label>
-                                    <input type="number" class="form-control" id="" placeholder="">
+                                <div class="mb-3 col-lg-6">
+                                    <label for="" class="form-label">Mid Term Grade</label>
+                                    <input type="number" class="form-control" id="" placeholder="percentage">
                                 </div>
-                                <div class="mb-3 col-lg-3">
-                                    <label for="" class="form-label">Quizzes</label>
-                                    <input type="number" class="form-control" id="" placeholder="">
-                                </div>
-                                <div class="mb-3 col-lg-3">
-                                    <label for="" class="form-label">Assignment/Output</label>
-                                    <input type="number" class="form-control" id="">
-                                </div>
-                                <div class="mb-3 col-lg-3">
-                                    <label for="" class="form-label">Tasks</label>
-                                    <input type="number" class="form-control" id="">
+                                <div class="col-lg-6">
+                                    <label class="form-label">Description and Percent</label>
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" placeholder="Attendance">
+                                        <input type="number" aria-label="First name" class="form-control" placeholder="Percentage">
+                                        <button class="btn btn-success" type="button"><i class='bx bx-plus-circle'></i></button>
+                                        <button class="btn btn-danger" type="button"><i class='bx bx-minus-circle'></i></button>
+                                    </div>
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="mb-3 col-lg-3">
-                                    <label for="" class="form-label">Attendance/Behaviour</label>
-                                    <input type="number" class="form-control" id="" placeholder="">
+                                <div class="mb-3 col-lg-6">
+                                    <label for="" class="form-label">Final Term Grade</label>
+                                    <input type="number" class="form-control" id="" placeholder="percentage">
+                                </div>
+                                <div class="col-lg-6">
+                                    <label class="form-label">Description and Percent</label>
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" placeholder="Attendance">
+                                        <input type="number" aria-label="First name" class="form-control" placeholder="Percentage">
+                                        <button class="btn btn-success" type="button"><i class='bx bx-plus-circle'></i></button>
+                                        <button class="btn btn-danger" type="button"><i class='bx bx-minus-circle'></i></button>
+                                    </div>
                                 </div>
                             </div>
                             <div class="row">
@@ -220,6 +255,7 @@
                                 </div>
                             </div>
                         </div>
+                        <hr>
                         <div class="row pt-3">
                             <div class="col d-flex justify-content-start">
                                 <button class="btn btn-primary js-btn-prev" type="button" title="Prev">Back</button>
@@ -268,11 +304,41 @@
                                     </div>
                                 </div>
                                 <div class="mb-3 col-lg-12">
-                                    <label for="time_frame" class="form-label">Noted By</label>
-                                    <input type="text" class="form-control" id="time_frame">
+                                    <label for="subject_of_sylla" class="form-label">Recommending Approval By:</label>
+                                    <div class="input-group">
+                                        <span class="input-group-text">Name and Position</span>
+                                        <input type="text" aria-label="First name" class="form-control">
+                                        <input type="text" aria-label="Last name" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="mb-3 col-lg-12">
+                                    <label for="subject_of_sylla" class="form-label">Conccured By:</label>
+                                    <div class="input-group">
+                                        <span class="input-group-text">Name and Position</span>
+                                        <input type="text" aria-label="First name" class="form-control">
+                                        <input type="text" aria-label="Last name" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="mb-3 col-lg-12">
+                                    <label for="subject_of_sylla" class="form-label">Approved By:</label>
+                                    <div class="input-group">
+                                        <span class="input-group-text">Name and Position</span>
+                                        <input type="text" aria-label="First name" class="form-control">
+                                        <input type="text" aria-label="Last name" class="form-control">
+                                    </div>
+                                </div>
+                                <h4>Footer</h4>
+                                <div class="mb-3 col-lg-6">
+                                    <label>WMSU-VPAA-FR-032.00 </label>
+                                    <input type="text" class="form-control" placeholder="WMSU-VPAA-FR-032.00">
+                                </div>
+                                <div class="mb-3 col-lg-6">
+                                    <label>Effective Date</label>
+                                    <input type="date" class="form-control" >
                                 </div>
                             </div>
                         </div>
+                        <hr>
                         <div class="row pt-3">
                             <div class="col d-flex justify-content-start">
                                 <button class="btn btn-primary js-btn-prev" type="button" title="Prev">Back</button>
@@ -293,7 +359,10 @@
                                     <span class="visually-hidden">Loading...</span>
                                 </div>
                             </div>
-                            <p class="text-center mt-2">Generating Information of Syllabus</p>
+                            <div class="text-center mt-3">
+                                <span id="words">Creating Tables</span>
+                            </div>
+                            
                         </div>
                         <div class="row pt-3">
                             <div class="col d-flex justify-content-start">
@@ -758,7 +827,9 @@
                                     <span class="visually-hidden">Loading...</span>
                                 </div>
                             </div>
-                            <p class="text-center mt-2">Generating Syllabus</p>
+                            <div class="text-center mt-3">
+                                <span id="words_2">Creating Tables</span>
+                            </div>
                         </div>
                         <div class="row pt-3">
                             <div class="col d-flex justify-content-start">
@@ -790,7 +861,7 @@
                         </div>
                     </div>
                     <div class="multisteps-form__content">
-                        <embed src="../files/SYLLABUS CC100 - INTRODUCTION TO COMPUTING V2newnormal.pdf" type="application/pdf" width="100%" height="600px" />
+                        <embed src="../files/Software-Engineering-1-Syllabus-Ballaho-2021v1.1-1.pdf" type="application/pdf" width="100%" height="600px" />
 
                         <div class="row pt-3">
                             <div class="col d-flex justify-content-start">
