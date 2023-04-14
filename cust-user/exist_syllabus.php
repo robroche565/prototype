@@ -62,6 +62,25 @@ function myFunction() {
   }
 }
 </script>
+<script type="text/javascript">
+      (function () {
+        var words = ["Editing Template","Filling in Tables","Adjusting Rows","Inputting Information" ],
+        i = 0;
+        setInterval(function(){ $('#words').fadeOut(function(){
+            $(this).html(words[(i = (i + 1) % words.length)]).fadeIn();
+          }); }, 3000)
+      })();
+</script>
+<script type="text/javascript">
+      (function () {
+        var words = ["Getting Information From GPT","Filling in Tables","Adjusting Rows","Inputting Information" ],
+        i = 0;
+        setInterval(function(){ $('#words_2').fadeOut(function(){
+            $(this).html(words[(i = (i + 1) % words.length)]).fadeIn();
+          }); }, 3000)
+      })();
+</script>
+
 
 </body>
 </html>
