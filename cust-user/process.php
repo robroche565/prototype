@@ -159,11 +159,11 @@
                             <div class="row">
                                 <div class="mb-3 col-lg-4">
                                     <label for="" class="form-label">Course Code</label>
-                                    <input type="text" class="form-control" id="" placeholder="Sem:1st AY: 2017-2018">
+                                    <input type="text" class="form-control" id="" placeholder="">
                                 </div>
                                 <div class="mb-3 col-lg-4">
                                     <label for="" class="form-label">Course Name</label>
-                                    <input type="text" class="form-control" id="" placeholder="1st Draft" min="1">
+                                    <input type="text" class="form-control" id="" placeholder="" min="1">
                                 </div>
                                 <div class="mb-3 col-lg-4">
                                     <label for="" class="form-label">Preriquisite</label>
@@ -173,7 +173,7 @@
                             <div class="row">
                                 <div class="mb-3 col-lg-4">
                                     <label for="" class="form-label">Course Credit</label>
-                                    <input type="text" class="form-control" id="" placeholder="Department Head">
+                                    <input type="text" class="form-control" id="" placeholder="">
                                 </div>
                                 <div class="mb-3 col-lg-8">
                                     <label for="exampleFormControlTextarea1" class="form-label">Course Description</label>
@@ -210,7 +210,8 @@
                                 <div class="col-lg-12">
                                     <div class="input-group">
                                         <span class="input-group-text">Enter Range Here</span>
-                                        <input type="text" aria-label="First name" class="form-control">
+                                        <input type="number" aria-label="First name" class="form-control">
+                                        <input type="number" aria-label="First name" class="form-control">
                                         <span class="input-group-text">Enter Grade Here</span>
                                         <input type="text" aria-label="Last name" class="form-control">
                                         <button class="btn btn-success" type="button"><i class='bx bx-plus-circle'></i></button>
@@ -239,7 +240,7 @@
                                 <label>Course Requirements</label>
                                 <div class="col-lg-12 mt-1">
                                     <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="Enter Source Here">
+                                        <input type="text" class="form-control" placeholder="">
                                         <button class="btn btn-success" type="button"><i class='bx bx-plus-circle'></i></button>
                                         <button class="btn btn-danger" type="button"><i class='bx bx-minus-circle'></i></button>
                                     </div>
@@ -249,7 +250,7 @@
                                 <label>Conditions for Performance Evaluation</label>
                                 <div class="col-lg-12 mt-1">
                                     <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="Enter Source Here">
+                                        <input type="text" class="form-control" placeholder="">
                                         <button class="btn btn-success" type="button"><i class='bx bx-plus-circle'></i></button>
                                         <button class="btn btn-danger" type="button"><i class='bx bx-minus-circle'></i></button>
                                     </div>

@@ -5,11 +5,11 @@
                 <div class="d-grid">
                     <a href="new_syllabus.php" class="btn btn-outline-secondary text-start text-light btn-lg py-3" style="font-size: 15px;"><i class='bx bx-list-plus me-2' style="font-size:20px; vertical-align: middle;"></i>New Syllabus</a>
                 </div>
-                <ul class="nav flex-column text-decoration-none">
+                <ul class="nav flex-column text-decoration-none text-light">
                     <li class="nav-item pt-1">
-                        <a href="exist_syllabus.php" class="nav-link">
+                        <a href="exist_syllabus.php" class="nav-link text-decoration-none text-light">
                             <i class='bx bxs-book-reader me-2'></i>
-                            <span class="links-name">First Syllabus</span>
+                            <span class="links-name text-light">First Syllabus</span>
                         </a>
                     </li>
                 </ul>
