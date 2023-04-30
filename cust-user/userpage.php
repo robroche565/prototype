@@ -10,6 +10,10 @@
           <div class="mb-2 text-center text-light">Welcome to AI-Generated Syllabus</div>
           <p>To Create A New Syllabus click the New Syllabus Button.</p>
           <p>Already Have An Existing Syllabus? Navigate to the sidebar to Find it.</p>
+          <p>First Time? Let us Setup your Syllabus First.</p>
+          <div class="d-flex justify-content-center">
+            <a href="setup.php" class="btn btn-primary">Set-Up Syllabus</a>
+          </div>
       </div>
     </div>
   </div>

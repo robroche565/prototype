@@ -23,6 +23,12 @@
                     <ul class="nav flex-column text-decoration-none">
                         <li class="nav-item">
                             <a href="#" class="nav-link text-decoration-none text-light" title="Settings">
+                                <i class='bx bx-moon' style="font-size:20px; vertical-align: middle;"></i>
+                                <span class="links-name">Dark Mode</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link text-decoration-none text-light" title="Settings">
                                 <i class='bx bx-cog me-2' style="font-size:20px; vertical-align: middle;"></i>
                                 <span class="links-name">Settings</span>
                             </a>

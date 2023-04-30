@@ -288,6 +288,7 @@ hr.line{
   overflow-y: scroll;
 }
 
+
 @media (min-width: 375px) {
   .sidebar {
     padding: 76px 0 0;
