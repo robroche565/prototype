@@ -700,7 +700,7 @@
                                 <button class="btn btn-primary js-btn-prev" type="button" title="Prev">Back</button>
                             </div>
                             <div class="col-5 col-lg-auto">
-                                <button class="btn btn-primary ml-auto js-btn-next" type="button" title="Next">Next</button>
+                                <button class="btn btn-primary ml-auto js-btn-next" type="button" title="Next">Edit Again?</button>
                             </div>
                             <div class="col-3 col-lg-auto">
                                 <a href="userpage.php" class="btn btn-primary ml-auto " type="button">Finish</a>
